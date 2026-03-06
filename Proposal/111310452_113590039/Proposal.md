@@ -1,23 +1,26 @@
 # Abstract
 
-遊戲名稱：洛克人
+遊戲名稱：Angry Birds
 
 組員：
-
-- 111590004 張意昌
+- 111310452 黃安華
+- 113590039 許兆雲
 
 # Game Introduction
+Angry Birds 是一款 2D 類型多關卡益智遊戲，玩家需要透過彈弓發射不同種類的 Angry Bird 攻擊綠色的邪惡豬大本營，但這些豬會用各種不同的材料來防禦，對應不同的建築和防禦材料，不同種類的 Angry Bird 也有不同的能力和特色去打破防禦攻擊到邪惡豬。
 
-洛克人是一款 2D 類型卷軸 RPG 遊戲，玩家必須要擊倒 6 隻 Boss 後進入最後一關。  
-在打每關之後會獲得不同屬性的洛克人，玩家必須要了解不同屬性在地圖上的優勢，才能發揮最大的效果。  
-
-[遊戲連結](https://www.youtube.com/watch?v=2BGA79PKaZ8)
+[遊戲連結](https://www.rovio.com/games/angry-birds-2/)
+[遊戲連結](https://www.angrybirds.com/)
+[遊玩畫面](https://www.youtube.com/watch?v=FSWoUGxGNEg)
 
 # Development timeline
 
 - Week 01：撰寫 Proposal、完成練習
-  - [ ] 項目一
-  - [ ] 項目二
+  - [ ] 撰寫 Proposal
+  - [ ] PTSD Giraffe 通關
+  - [ ] PTSD 環境建置
+  - [X] 訂定組內進度確認時間
+  
 - Week 02：蒐集素材
   - [ ] 項目一
   - [ ] 項目二
@@ -71,4 +74,4 @@
 
 # OOP 修課證明 (if you need)
 
-![111590004](111590004OOP.png)
+![111310452](111310452.jpg)
